@@ -1,3 +1,6 @@
 # Nice to see you!
-## My name is Ignat. I’m a student at St. Petersburg Mining University, beginner software engineer and systems analyst.
-## Feel free to reach out at: <a href="https://t.me/isperestoronin">Telegram</a>, <a href="https://vk.com/id563251638">VK</a> and <a href="https://vk.com/id563251638">Gmail</a>
+## My name is Ignat. I’m a student at St. Petersburg Mining University, junior software engineer and systems analyst.
+## Feel free to reach me: 
+- Gmail: perestoronin.ig@gmail.com
+- Telegram: <a href="https://t.me/isperestoronin">@isperestoronin</a>
+
